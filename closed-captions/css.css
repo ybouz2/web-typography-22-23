@@ -5,23 +5,42 @@ Show them when they receive the class 'on'
 Hide them when they receive the class 'off'
 Feel free to adjust the defaults to your needs.
 ********************************************** */
+
 #closed-captions p {
 	opacity: 0;
 	transition: .05s;
 	position: absolute;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	
+	
 }
 #closed-captions .on {
 	opacity: 1;
+	bottom: 125px;
+
 }
 #closed-captions .off {
 	transition: .2s;
 	opacity: 0;
 }
 .voice1 {
-	font-style: italic;
+	font-family: 'Brenner Display';
+	font-weight: bold;
 }
 .voice2 {
+	font-family:'Brenner Mono Regular';
+	
+}
+
+.voice3 {
+	font-family: 'brenner mono';
 	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 10em;
+	position: absolute;
+	top: 8%;
+	left: 17%;
 }
 
 /* **********************************************
@@ -98,10 +117,25 @@ You probably want to change the styling.
 	font-family: "brenner slab";
 }
 
-.p1.on {
-	background: hotpink;
-	color: red;
-	font-size: 200px;
+.p8.on, .p9.on, .p11.on , .p12.on, .p14.on, .p15.on, .p17.on, .p18.on {
+	margin: 0;
+	padding: 0;
+	font-size: 250px;
+	position: absolute;
+	top: 50%;
+
+	
+	
+	
+}
+
+.p19.on, .p20.on, .p22.on, .p23.on, .p25.on, .p26.on, .p28.on, .p29.on, .p31.on, .p33.on, .p34.on, .p36.on, .p37.on{
+	margin: 0;
+	padding: 0;
+	font-size: 250px;
+	position: absolute;
+	top: 50%;
+	
 }
 
 /* **********************************************
@@ -113,14 +147,54 @@ Sounds.
 
 /* The moment the class .sound1 is added to the body, the background is yellow */
 .sound1 {
-	
+	animation: background 1s linear;	
 }
 
 /* The moment the class .sound1 is added to the body, the movie makes a turn */
 .sound1 #video-mask {
-	
+	animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+	transform: translate3d(0, 0, 0);
+	backface-visibility: hidden;
+	perspective: 1000px;
 }
 
+.sound2 #video-mask {
+	animation: siren 2s linear;
+}
+
+.sound9{
+	animation: flash .5s linear infinite; 
+}
+
+@keyframes flash {
+	50% {
+	  background-color: white; } };
+
+@keyframes background {
+	100% {background-color:green}
+}
+@keyframes siren {
+	25% {box-shadow: 0px 0px 15px 50px red;}
+	50% {box-shadow: 0px 0px 15px 50px blue;}
+  }
+
+@keyframes shake {
+	10%, 90% {
+	  transform: translate3d(-8px, 0, 0);
+	}
+	
+	20%, 80% {
+	  transform: translate3d(4px, 0, 0);
+	}
+  
+	30%, 50%, 70% {
+	  transform: translate3d(-24px, 0, 0);
+	}
+  
+	40%, 60% {
+	  transform: translate3d(12px, 0, 0);
+	}
+  }
 
 /* **********************************************
 Basic layout.
@@ -132,6 +206,8 @@ body {
 	height: 100vh;
 	margin: 0;
 	justify-content: center;
+	background-color: #000;
+	color: #FFF;
 }
 #video-container {
 	margin: auto;
@@ -142,6 +218,7 @@ body {
 	overflow: hidden;
 	align-content: center;
 	transition: 1s;
+	
 }
 
 iframe {
