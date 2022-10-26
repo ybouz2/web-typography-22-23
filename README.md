@@ -24,7 +24,7 @@ Ik heb gekozen voor optie 2: Brenner, omdat ik hier veel keuzes in heb, ik kan b
 
 ## Geluiden en beweging
 
-De sounds wil ik goed overbrengen door te spelen met kleur en beweging. Bij een alarm geluid waarbij het lijkt alsof een deur open gaat zie je het scherm trillen en een rode achtergrond. zo krijgt een doof persoon de ervaring van een alarm ook mee. Als er een bliep geluid is zie je dit visueel op de achtergrond door ruis achter in beeld te brengen. en wanneer de irritante pieptoon komt heb ik het ook irritant gemaakt om naar het beeld te kijken.
+De sounds wil ik goed overbrengen door te spelen met kleur en beweging. Bij een alarm geluid waarbij het lijkt alsof een deur open gaat zie je het scherm trillen en een groene achtergrond. zo krijgt een doof persoon de ervaring van een alarm ook mee. Als er een bliep geluid is zie je dit visueel op de achtergrond door ruis achter in beeld te brengen. en wanneer de irritante pieptoon komt heb ik het ook irritant gemaakt om naar het beeld te kijken.
 
 
 # Week 3:
@@ -41,16 +41,16 @@ In de laatste week heb ik de feedback van vasilis verbeterd en het laatste gedee
 
 ## Achtergrond
 - Ik heb ervoor gekozen om vooral met de achtergrond te spelen. Zodra er een alarm geluid is voor een poort die open gaat associeren wij dat met de kleur groen (van groen stoplicht doorrijden) en hoor je een trilling in het geluid, vandaar dat ik voor een groene achtergrond heb gekozen en dat het beeld gaat shaken.
-- Zodra je een bliep geluid hoort wil ik ook het gevoel krijgt dat er iets wordt gebliept, dit wordt geassocieerd met ruis daarom heb ik de achtergrond laten ruizen als je een bliep hoort.
-- Zodra er een hoge piep komt die steeds irritanter wordt heb ik dit doormiddel van op en neer gaand beeld, witte achtergrond flitsen en grote woorden in beeld steeds irritanter proberen te maken zodat het duidelijk is dat het geluid ook irritand is.
-- Tijdens de overgang van het eerste naar tweede gedeelte van de film hoor je een spannend geluid, dit heb ik visueel gemaakt met dat het snel een andere kleur krijgt zodat het ook voelt alsof er wat verandert. 
-- In het tweede gedeelte zie je een herhaling van de opname tussen het gesprek met de officer en de computer. Dit wordt steeds spannender dus heb ik ervoor gekozen dat de kleur ook steeds feller wordt en weggaat als er geen geluid meer is. Het is geen irritant geluid dus het vierkant loopt geleidelijk. 
+- Zodra je een bliep geluid hoort wil ik ook dat je het gevoel krijgt dat er iets wordt gebliept, dit wordt geassocieerd met ruis daarom heb ik de achtergrond laten ruizen als je een bliep hoort.
+- Zodra er een hoge piep komt die steeds irritanter wordt heb ik dit doormiddel van een in het begin inzoomend beeld wat vervolgens op en neer gaat, witte achtergrond flitsen en grote woorden in beeld steeds irritanter proberen te maken zodat het duidelijk is dat het geluid ook irritand is.
+- Tijdens de overgang van het eerste naar tweede gedeelte van de film hoor je een spannend geluid, dit heb ik visueel gemaakt met dat het snel andere kleuren krijgt zodat het ook voelt alsof er wat verandert. 
+- In het tweede gedeelte zie je een herhaling van de opname tussen het gesprek met de officer en de computer. Dit wordt steeds spannender dus heb ik ervoor gekozen dat de kleur ook steeds feller wordt en weggaat als er geen geluid meer is en ook het beeld in en uitzoomt. Het is geen irritant geluid dus het vierkant loopt geleidelijk. 
 
 ## typografie
 
 Ik heb gekozen voor het Brenner font, omdat ik hier veel keuzes in heb, ik kan bijvoorbeeld monotype doen voor de computer stem. Verder ben ik in dit typografie erg vrij en kan ik dus alle kanten op en goed onderscheid maken in personages. Bij het systeem fonts moet je maar afwachten of het fonts past bij de stem van de gebruiker en nu kan ik dat zelf bepalen. 
 
-Verder heb ik ervoor gekozen om de tekst in 1x te laten zien, anders gaat het te snel voor de kijker. Verder heb elk personage een andere kleur gegeven om onderscheid te maken in personages. Ook is de stijl van het fonts per persoon anders, zodat je dit snel herkent en bij de personage past. Ook heb ik een zwarte achtergrond gegeven op de momenten dat de letters gewoon kleiner zijn zodat het goed leesbaar blijft.
+Verder heb ik ervoor gekozen om de tekst in 1x te laten zien, anders gaat het heel snel voor de kijker. Verder heb ik elk personage een andere kleur gegeven om onderscheid te maken in personages. Ook is de stijl van het fonts per persoon anders, zodat je dit snel herkent en het bij de personage past. Ook heb ik een zwarte achtergrond gegeven op de momenten dat de letters gewoon kleiner zijn zodat het goed leesbaar blijft.
 
 # Exclusive Design Principles
 
