@@ -1,9 +1,5 @@
 # Web Typography, 2020/2021
 
-### Naam: Yousri Bouzaien 500731321
-### Vak: Webtypografie
-### Docent: Vasilis
-
 # Week 1:
 
 ## Kick off

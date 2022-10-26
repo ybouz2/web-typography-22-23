@@ -266,11 +266,12 @@ Sounds.
 }
 
 .sound9 #video-mask {
-	animation: pulse .25s infinite ease-in-out alternate;
-	animation-iteration-count: 160;
+	animation: zoom 42s linear both;
+	
 }
 
-@keyframes pulse {
+@keyframes zoom {
+	
 	from { transform: scale(1); }
 	to { transform: scale(1.2); }
   }
@@ -368,7 +369,39 @@ Sounds.
 	}
   }
 
-  .sound11 .vierkant{
+  .sound10 #video-mask{
+	animation: pulse .2s infinite ease-in-out alternate;
+	animation-iteration-count: 50;
+  }
+
+  @keyframes pulse {
+	from { transform: scale(1.2); }
+	to { transform: scale(1); }
+  }
+
+.sound11{
+	animation: kleur 1s linear;
+    background-color: black;
+}
+
+@keyframes kleur {
+	10%{
+		background-color: blue;
+	}
+	40% {
+		background-color: red;
+	}
+	80% {
+		background-color: blue;
+	}
+}
+
+
+.sound12 #video-mask{
+	animation: zoom 10s ease-in-out alternate;
+	animation-iteration-count: 4;
+}
+  .sound12 .vierkant{
 	
 	opacity: 0;
 	width: 1em;
